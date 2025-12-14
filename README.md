@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali21-git&label=Profile%20views&color=0e75b6&style=flat" alt="gyane-git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali21-git&label=Profile%20views&color=0e75b6&style=flat" alt="anjali21-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyane-git" alt="gyane-git" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyane-git" alt="anjali21-git" /></a> </p>
 
 - 🔭 I’m currently working on [Garg dental eCom](dentalnepal.com)
 
